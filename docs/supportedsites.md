@@ -128,13 +128,14 @@
  - **CamdemyFolder**
  - **CamWithHer**
  - **canalc2.tv**
- - **Canalplus**: canalplus.fr, piwiplus.fr and d8.tv
+ - **Canalplus**: mycanal.fr and piwiplus.fr
  - **Canvas**
  - **CanvasEen**: canvas.be and een.be
  - **CarambaTV**
  - **CarambaTVPage**
  - **CartoonNetwork**
  - **cbc.ca**
+ - **cbc.ca:olympics**
  - **cbc.ca:player**
  - **cbc.ca:watch**
  - **cbc.ca:watch:video**
@@ -189,7 +190,7 @@
  - **CSpan**: C-SPAN
  - **CtsNews**: 華視新聞
  - **CTVNews**
- - **culturebox.francetvinfo.fr**
+ - **Culturebox**
  - **CultureUnplugged**
  - **curiositystream**
  - **curiositystream:collection**
@@ -210,6 +211,7 @@
  - **defense.gouv.fr**
  - **democracynow**
  - **DHM**: Filmarchiv - Deutsches Historisches Museum
+ - **Digg**
  - **DigitallySpeaking**
  - **Digiteka**
  - **Discovery**
@@ -290,11 +292,14 @@
  - **FranceTV**
  - **FranceTVEmbed**
  - **francetvinfo.fr**
+ - **FranceTVJeunesse**
+ - **FranceTVSite**
  - **Freesound**
  - **freespeech.org**
  - **FreshLive**
  - **Funimation**
- - **Funk**
+ - **FunkChannel**
+ - **FunkMix**
  - **FunnyOrDie**
  - **Fusion**
  - **Fux**
@@ -332,6 +337,7 @@
  - **HentaiStigma**
  - **hetklokhuis**
  - **hgtv.com:show**
+ - **HiDive**
  - **HistoricFilms**
  - **history:topic**: History.com Topic
  - **hitbox**
@@ -382,7 +388,6 @@
  - **JWPlatform**
  - **Kakao**
  - **Kaltura**
- - **Kamcord**
  - **KanalPlay**: Kanal 5/9/11 Play
  - **Kankan**
  - **Karaoketv**
@@ -422,6 +427,7 @@
  - **limelight**
  - **limelight:channel**
  - **limelight:channel_list**
+ - **LineTV**
  - **LiTV**
  - **LiveLeak**
  - **LiveLeakEmbed**
@@ -437,6 +443,8 @@
  - **m6**
  - **macgamestore**: MacGameStore trailers
  - **mailru**: Видео@Mail.Ru
+ - **mailru:music**: Музыка@Mail.Ru
+ - **mailru:music:search**: Музыка@Mail.Ru
  - **MakersChannel**
  - **MakerTV**
  - **mangomolo:live**
@@ -478,6 +486,7 @@
  - **Moniker**: allmyvideos.net and vidspot.net
  - **Morningstar**: morningstar.com
  - **Motherless**
+ - **MotherlessGroup**
  - **Motorsport**: motorsport.com
  - **MovieClips**
  - **MovieFap**
@@ -501,6 +510,7 @@
  - **MySpass**
  - **Myvi**
  - **MyVidster**
+ - **MyviEmbed**
  - **n-tv.de**
  - **natgeo**
  - **natgeo:episodeguide**
@@ -509,7 +519,8 @@
  - **NBA**
  - **NBC**
  - **NBCNews**
- - **NBCOlympics**
+ - **nbcolympics**
+ - **nbcolympics:stream**
  - **NBCSports**
  - **NBCSportsVPlayer**
  - **ndr**: NDR.de - Norddeutscher Rundfunk
@@ -666,6 +677,7 @@
  - **RaiPlay**
  - **RaiPlayLive**
  - **RaiPlayPlaylist**
+ - **RayWenderlich**
  - **RBMARadio**
  - **RDS**: RDS.ca
  - **RedBullTV**
@@ -681,7 +693,6 @@
  - **revision**
  - **revision3:embed**
  - **RICE**
- - **RingTV**
  - **RMCDecouverte**
  - **RockstarGames**
  - **RoosterTeeth**
@@ -702,6 +713,7 @@
  - **rtve.es:live**: RTVE.es live streams
  - **rtve.es:television**
  - **RTVNH**
+ - **RTVS**
  - **Rudo**
  - **RUHD**
  - **RulePorn**
@@ -731,6 +743,8 @@
  - **ServingSys**
  - **Servus**
  - **Sexu**
+ - **SeznamZpravy**
+ - **SeznamZpravyArticle**
  - **Shahid**
  - **ShahidShow**
  - **Shared**: shared.sx
@@ -772,7 +786,7 @@
  - **Sport5**
  - **SportBoxEmbed**
  - **SportDeutschland**
- - **Sportschau**
+ - **SpringboardPlatform**
  - **Sprout**
  - **sr:mediathek**: Saarländischer Rundfunk
  - **SRGSSR**
@@ -812,8 +826,11 @@
  - **Telegraaf**
  - **TeleMB**
  - **TeleQuebec**
+ - **TeleQuebecEmission**
+ - **TeleQuebecLive**
  - **TeleTask**
  - **Telewebion**
+ - **TennisTV**
  - **TF1**
  - **TFO**
  - **TheIntercept**
@@ -821,7 +838,6 @@
  - **ThePlatform**
  - **ThePlatformFeed**
  - **TheScene**
- - **TheSixtyOne**
  - **TheStar**
  - **TheSun**
  - **TheWeatherChannel**
@@ -923,7 +939,6 @@
  - **vice**
  - **vice:article**
  - **vice:show**
- - **Viceland**
  - **Vidbit**
  - **Viddler**
  - **Videa**
@@ -939,6 +954,7 @@
  - **VideoPress**
  - **videoweed**: VideoWeed
  - **Vidio**
+ - **VidLii**
  - **vidme**
  - **vidme:user**
  - **vidme:user:likes**
@@ -1001,10 +1017,14 @@
  - **WatchIndianPorn**: Watch Indian Porn
  - **WDR**
  - **wdr:mobile**
+ - **WDRElefant**
+ - **WDRPage**
  - **Webcaster**
  - **WebcasterFeed**
  - **WebOfStories**
  - **WebOfStoriesPlaylist**
+ - **Weibo**
+ - **WeiboMobile**
  - **WeiqiTV**: WQTV
  - **wholecloud**: WholeCloud
  - **Wimp**
@@ -1024,6 +1044,8 @@
  - **xiami:artist**: 虾米音乐 - 歌手
  - **xiami:collection**: 虾米音乐 - 精选集
  - **xiami:song**: 虾米音乐
+ - **ximalaya**: 喜马拉雅FM
+ - **ximalaya:album**: 喜马拉雅FM 专辑
  - **XMinus**
  - **XNXX**
  - **Xstream**
@@ -1037,6 +1059,7 @@
  - **yandexmusic:album**: Яндекс.Музыка - Альбом
  - **yandexmusic:playlist**: Яндекс.Музыка - Плейлист
  - **yandexmusic:track**: Яндекс.Музыка - Трек
+ - **YapFiles**
  - **YesJapan**
  - **yinyuetai:video**: 音悦Tai
  - **Ynet**
